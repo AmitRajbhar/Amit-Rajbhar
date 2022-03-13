@@ -48,9 +48,25 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amitrajbhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" / alt="amitrajbhar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajbhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" / alt="amitrajbhar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrajbhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" / alt="amitrajbhar" /></p></b></a>
+ 
   
   
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/amitrajbhar/github-readme-activity-graph"><img alt="Amit Rajbhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amitrajbhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>  
   
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajbhar" /> </p>
+  
+  
+  
+  
+
