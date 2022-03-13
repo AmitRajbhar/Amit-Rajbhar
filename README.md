@@ -64,9 +64,13 @@
 <br/>  
   
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajbhar" /> </p>
+ 
+   
+  ## ❤ Views and Followers
   
-  
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajbhar" /> </p>
+</a>
+<a href="https://github.com/amitrajbhar?tab=followers"><img src="https://img.shields.io/github/followers/amitrajbhar?label=Followers&style=social" alt="GitHub Badge"></a>
   
   
 
